@@ -1,8 +1,11 @@
+
+export const runtime = "edge";
+
 export default function Dashboard() {
   return (
     
     <div className=" w-full h-screen flex items-center justify-center bg-blue-100">
-     <link rel="icon" href="Group.png" />
+     <link rel="icon" href="logo.svل" />
       <div className="bg-white shadow-lg rounded-lg max-w-md w-full p-8">
         <h1 className="text-2xl font-bold text-left">Welcome to VirusFire</h1>
         <br />
